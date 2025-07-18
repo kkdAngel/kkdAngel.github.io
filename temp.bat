@@ -1,0 +1,2 @@
+set SSH_AUTH_SOCK=/tmp/ssh-uJJ9qDBcV52J/agent.388
+set SSH_AGENT_PID=389
